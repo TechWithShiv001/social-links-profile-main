@@ -27,7 +27,7 @@ body {
     border-radius: 8px;
 }
 
-section>h4{
+section>h2{
     color: hsl(0, 0%, 100%);
     padding: 10px 0px;
     background-color: hsl(0, 0%, 20%);
@@ -58,7 +58,7 @@ img{
     h1 {
         font-size: 19px !important;
     }
-    section>h4{
+    section>h2{
         font-size: 11px;
     }
     p {
